@@ -49,6 +49,7 @@ h2{
     margin-top: 10px;
     background-image: url("./resources/imgs/pexels-pixabay-2159.jpg");
     background-repeat: no-repeat;
+    background-color: blue;
     background-size: cover;
     overflow: hidden;
 }
